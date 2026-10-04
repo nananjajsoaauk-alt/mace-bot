@@ -1,0 +1,12 @@
+{
+  "name": "mace-anarchy-bot",
+  "version": "1.0.0",
+  "description": "Anarchy Mace Bot for Minecraft",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "mineflayer": "latest"
+  }
+}
